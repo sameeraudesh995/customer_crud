@@ -10,7 +10,7 @@
 <body>
 <h1>Contact form</h1>
 <p>Please fill this form and send us</p>
-    <form method="POST" action="contact_form.php">
+    <form method="POST" action="process_form.php">
         <p>
             <label for="inputName">Name</label>
             <input type="text" name="name" id="inputName"/>
